@@ -1,2 +1,4 @@
-# We've moved. 
-In an effort to truly own and be in full control of our clients and personal information, source code, and documentation we've moved to a self-hosted Git server. You can find this project here: [git.everydaydev.io](https://git.everydaydev.io/opensource/kicad-project-template)
+# Siberian Macros Keypad. 
+This is a macros keypad based on the RP2040 microcontroler designed by Raspberry.
+
+Documentation still in progress.
